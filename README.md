@@ -10,7 +10,7 @@ As things stand now, the AI does act more the way I want it to. Unfortunetly, th
 Nearly all 'fixes' are made more by tweaking global variables than by changing AI programming. For example, expansion is encouraged by making it
 nearly cost free to manufacture a CB. 
 
-Another problem is that the AI will still leave alone easy conquests. 
+Another problem is that the AI will still leave alone some easy conquests. Another is that the AI will often give up on 'important wars' and double down on 'unimportant ones'.
 
 And the hardest problem - the AI is still really stupid. The only way to approximate the behavior I want is by beefing up bonuses to all AI,
 and beefing up the bonuses to lucky nations.
