@@ -1,0 +1,35 @@
+# Order here is the priority for taking them, if trigger is true.
+
+TUR = {
+  always = yes
+}
+
+MOS = {
+	NOT = {
+		exists = RUS
+	}
+}
+
+RUS = {
+	always = yes
+}
+
+FRA = {
+	always = yes
+}
+
+MNG = {
+  always = yes
+}
+
+BNG = {
+  always = yes
+}
+
+BAH = {
+  always = yes
+}
+
+JAP = {
+  always = yes
+}
